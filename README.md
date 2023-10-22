@@ -4,3 +4,4 @@ seyhan tan python ödev deneme 1.
 düzeltme olarak eklenmiş bir satırdır.
 denemeler devam etmektedir.
 son bir düzeltme denemesi ile ödevin bu kısmı tamamlanmıştır.
+güncelleme part 1
